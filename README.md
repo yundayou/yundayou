@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=Data_Analyst:%20Yun-Dayoung&fontSize=40)
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=100&section=header&text=Data_Analyst%20&fontSize=30)
 ## ⚒️ TECH STACK ⚒️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
